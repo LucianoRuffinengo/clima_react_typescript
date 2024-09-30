@@ -1,0 +1,12 @@
+.alert {
+    text-align: center;
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 1.8rem;
+    color: #eb3333;
+    background-color: rgba(185, 67, 67, 0.5);
+    border: .3rem solid #eb3333;
+    border-radius: 1rem;
+    padding: 0.5rem;
+}
